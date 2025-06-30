@@ -50,9 +50,3 @@ Comprehensive Reporting:
 Generate detailed reports and dashboards to visualize findings and support decision-making processes.
 This project aims to empower brands and influencers with the knowledge needed to optimize their social media presence and effectively engage their audiences.
 
-
-Bookmark message
-Copy message
-Export
-
-
